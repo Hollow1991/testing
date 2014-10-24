@@ -1,0 +1,31 @@
+- wyra¿enia regularne
+- gramatyki bezkontekstowe (bez formalnych definicji)
+- alfabet
+- produkcje
+- symbole terminalne jêzyka
+- symbole nietrminalne
+- automat skoñczony (def. nieformalna)
+- charakterystyka parsera LL
+- charakterystyka perserów LR
+- zbiory First
+- zbiory Follow
+- Symbole nieterminalne zerowalne
+- tablica parsera LL
+- automat generowania np. liczb ca³kowitych,
+binarnych, z kropk¹ dziesiêtn¹
+- wzorce liczb
+- wyprowadzenia lewo- i prawostronne
+- co to jest analiza leksykalna
+- co to jest analiza syntaktyczna
+- do czego s³u¿¹ asercje
+- przekszta³cenia gramatyk z rekursj¹ lewostronn¹
+na g. z r. prawostronn¹
+- co to jest eps?
+- co oznacza LL, LR ?
+- na czym polega analiza synt. z rekursja zstêpuj¹c¹?
+- co to s¹ drzewa syntaktyczne?
+- co to s¹ parsery LALR?
+- faktoryzacja produkcji wielokrotnych (przyk³ady)
+- ,, if … else if ...
+- znaleŸæ zbiory First i Follow dla prostych gramatyk
+- schematy programów dla parserów LL i prostych gramtyk
